@@ -14,6 +14,8 @@ And set your CloudConvert [API v2 Key](https://cloudconvert.com/dashboard/api/v2
 
     export CLOUDCONVERT_API_KEY=your_key
     
+or add it to a `.env` file
+
 ## Usage
 
 
